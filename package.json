@@ -1,0 +1,16 @@
+{
+  "name": "consoleResumeTypeScript",
+  "version": "1.0.0",
+  "description": "You will create a resume that exists entirely within the developer console.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.4.2"
+  }
+}
